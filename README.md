@@ -417,6 +417,12 @@ As you can see, from the 1970s+ the following universities remained the top 3 fo
 | Washington Nationals (WAS) | 62.8 | 25.5 | 11.7 |
 | Miami Marlins (MIA) | 64.9 | 29.9 | 5.2 | 
 
+- Right-Handed Dominance: The vast majority of players in nearly all teams bat right-handed. This reflects the natural population distribution where right-handedness is more common.
+
+- Left-Handed Consistency: The percentage of left-handed batters tends to be fairly consistent across teams, generally hovering around the 25-30% range.
+
+- Switch-Hitting Rarity: The percentage of switch-hitters (batting with both hands) is relatively low across all teams, typically below 15%. This suggests that switch-hitting is a less common skill.
+
 #### :zap: Average Height and Weight Differences Per Decade
 
 | Decade | Average Height Difference (Inches) | Average Weight Difference (Pounds) |
